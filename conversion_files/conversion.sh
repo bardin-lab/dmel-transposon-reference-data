@@ -15,6 +15,7 @@
  sed -i "s|\sY$|\tDmel\\\Y-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\sI$|\tDmel\\\I-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\sX$|\tDmel\\\X-element|g" dm6_FBti_to_Families.tab
+ sed -i "s|\sQ$|\tDmel\\\Q-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\s297$|\tDmel\\\297|g" dm6_FBti_to_Families.tab
  sed -i "s|\sR1$|\tDmel\\\R1A1-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\sR1A1$|\tDmel\\\R1A1-element|g" dm6_FBti_to_Families.tab
