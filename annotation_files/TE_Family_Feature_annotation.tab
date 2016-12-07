@@ -1,0 +1,127 @@
+#SUBMITTED ID	COMPLETE_ELEMENT	COPY_NUMBER_AND_COMMENTS	TSD_SIZE	TERMINAL_REPEAT	TRANSPOSON_TYPE	TELOMERIC
+HMS-Beagle2	-	-	-	-	-	-
+FB	1492 , variable	Approximately 24. , 32 in euchromatin of Release 3 genome annotation, of which 13 are full length. , 40	9	-	foldback_element	-
+17.6	7439	TE copies retrieved from release 5.1 of the D. melanogaster genome.:19 , 12 in euchromatin of Release 3 genome annotation, of which 7 are full length. , 40 (FBrf0040123)	4	512	LTR_retrotransposon	-
+3S18	6126 , 6126 (FBrf0081893)	Approximately 15-25 , 6 in euchromatin of Release 3 genome annotation, of which 4 are full length. , Approximately 25 , Approximately 15 (FBrf0043377) or approximately 25 (FBrf0040134)	5 , 5 (FBrf0041384)	361 , 361 (FBrf0081893)	LTR_retrotransposon	-
+accord	7404	1 in euchromatin of Release 3 genome annotation.	4	-	LTR_retrotransposon	-
+accord2	7650	1 in euchromatin of Release 3 genome annotation.	-	-	LTR_retrotransposon	-
+aurora-element	5kb , 4263	3 in euchromatin of Release 3 genome annotation, of which 1 is full length.	17-18 , 5	234	LTR_retrotransposon	-
+blood	7.4kb , 7410	TE copies retrieved from release 5.1 of the D. melanogaster genome.:24 , 22 in euchromatin of Release 3 genome annotation, of which all are full length. , 9-15	4	400	LTR_retrotransposon	-
+Burdock	6411	6411 in euchromatin of Release 3 genome annotation, of which 13 are full length.	4 , 12 , 4 (TATA in the case of the insertions into the ct hotspot)	277	LTR_retrotransposon	-
+Circe	7450	6356 in euchromatin of Release 3 genome annotation, of which 2 are full length.	-	240	LTR_retrotransposon	-
+copia	5146	5143 in euchromatin of Release 3 genome annotation, of which 30 are full length. , 60 (Finnegan et al., 1978; Potter et al., 1979)	5	276	LTR_retrotransposon	-
+diver2	4917	9 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	LTR_retrotransposon	-
+Dmel\1731	4648 , 4648 (FBrf0045155)	TE copies retrieved from release 5.1 of the D. melanogaster genome.:11 , 2 in euchromatin of Release 3 genome annotation, of which 1 is full length. , 10	5 , 5 (FBrf0045155)	336	LTR_retrotransposon	-
+Dmel\297	6995	TE copies retrieved from release 5.1 of the D. melanogaster genome.:77 , 57 in euchromatin of Release 3 genome annotation, of which 18 are full length. , Approximately 30 (FBrf0032823)	4	415	LTR_retrotransposon	-
+Dmel\412	7.6kb (FBrf0041380) , 7566	TE copies retrieved from release 5.1 of the D. melanogaster genome.:36 , 31 in euchromatin of Release 3 genome annotation, of which 24 are full length. , 40 (FBrf0036946)	4 , 4 (FBrf0036946)	481 or 571 (FBrf0036946)	LTR_retrotransposon	-
+Dmel\Dm88	4558	32 in euchromatin of Release 3 genome annotation, of which zero are full length.	3	-	LTR_retrotransposon	-
+Dmel\Max-element	-	-	5	-	LTR_retrotransposon	-
+Dmel\Y-element	-	-	-	-	LTR_retrotransposon	-
+flea	5034 , 4.8kb	17 in euchromatin of Release 3 genome annotation, of which 13 are full length. , 30	-	-	LTR_retrotransposon	-
+frogger	2483	1 in euchromatin of Release 3 genome annotation.	-	-	LTR_retrotransposon	-
+GATE	8507	20 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	LTR_retrotransposon	-
+gtwin	7411	6 in euchromatin of Release 3 genome annotation, of which 2 are full length.	4	-	LTR_retrotransposon	-
+gypsy	7469	TE copies retrieved from release 5.1 of the D. melanogaster genome.:11 , 2 in euchromatin of Release 3 genome annotation, of which 1 is full length. , 10 (Bayev et al.; Freund and Meselson, 1984).	4	482	LTR_retrotransposon	-
+gypsy10	-	-	-	-	LTR_retrotransposon	-
+gypsy11	-	-	-	-	LTR_retrotransposon	-
+gypsy12	-	-	4	-	LTR_retrotransposon	-
+gypsy2	6841	3 in euchromatin of Release 3 genome annotation, of which 1 is full length.	4	-	LTR_retrotransposon	-
+gypsy3	6973	2 in euchromatin of Release 3 genome annotation, of which 1 is full length.	-	-	LTR_retrotransposon	-
+gypsy4	6852	2 in euchromatin of Release 3 genome annotation, of which 1 is full length.	-	-	LTR_retrotransposon	-
+gypsy5	7369	2 in euchromatin of Release 3 genome annotation, of which 1 is full length.	4	-	LTR_retrotransposon	-
+gypsy6	7826	1 in euchromatin of Release 3 genome annotation.	-	-	LTR_retrotransposon	-
+gypsy7	-	-	-	-	LTR_retrotransposon	-
+gypsy8	-	-	-	-	LTR_retrotransposon	-
+gypsy9	-	-	-	-	LTR_retrotransposon	-
+HMS-Beagle	7062 , 7.3kb	13 in euchromatin of Release 3 genome annotation, of which 9 are full length. , 50	4	266	LTR_retrotransposon	-
+Idefix	7411 , 7400	7 in euchromatin of Release 3 genome annotation, of which 2 are full length.	5	594	LTR_retrotransposon	-
+invader1	4032	26 in euchromatin of Release 3 genome annotation, of which 1 is full length.	-	-	LTR_retrotransposon	-
+invader2	5124	10 in euchromatin of Release 3 genome annotation, of which 3 are full length.	-	-	LTR_retrotransposon	-
+invader3	5484	16 in euchromatin of Release 3 genome annotation, of which 3 are full length.	4	-	LTR_retrotransposon	-
+invader4	3105	9 in euchromatin of Release 3 genome annotation, of which 2 are full length.	-	-	LTR_retrotransposon	-
+invader5	4038	6 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	LTR_retrotransposon	-
+invader6	-	-	4	-	LTR_retrotransposon	-
+McClintock	6450	2 in euchromatin of Release 3 genome annotation, both full length.	-	-	LTR_retrotransposon	-
+mdg1	7480 , 7.3kb	TE copies retrieved from release 5.1 of the D. melanogaster genome.:42 , 25 in euchromatin of Release 3 genome annotation, of which 13 are full length. , 25 (Ilyin et al.)	4	442	LTR_retrotransposon	-
+mdg3	5519 , 5.4kb	16 in euchromatin of Release 3 genome annotation, of which 8 are full length. , 15 (Ilyin et al., 1980a)	4	267	LTR_retrotransposon	-
+micropia	5457 , 5.5kb	5 in euchromatin of Release 3 genome annotation, of which 2 are full length.	4	505	LTR_retrotransposon	-
+ninja-Dsim-like	-	-	-	-	LTR_retrotransposon	-
+opus	7521 , 7528 , 8kb	TE copies retrieved from release 5.1 of the D. melanogaster genome.:25 , 24 in euchromatin of Release 3 genome annotation, of which 16 are full length. , 10-15	4 , 6	519	LTR_retrotransposon	-
+Quasimodo	7387	14 in euchromatin of Release 3 genome annotation, of which 5 are full length.	4	-	LTR_retrotransposon	-
+R1-2	-	-	-	-	LTR_retrotransposon	-
+roo	9092 , 8.7kb	146 in euchromatin of Release 3 genome annotation, of which 58 are full length. , 80 (Scherer et al., 1982)	5	429	LTR_retrotransposon	-
+rooA	7621	5 in euchromatin of Release 3 genome annotation, of which zero are full length.	13	-	LTR_retrotransposon	-
+rover	7318	6 in euchromatin of Release 3 genome annotation, of which 3 are full length.	4	-	LTR_retrotransposon	-
+springer	7546 , 8.8kb	11 in euchromatin of Release 3 genome annotation, of which 5 are full length. , 6 (Karlik and Fyrberg, 1985)	6	405	LTR_retrotransposon	-
+Stalker	7256	12 in euchromatin of Release 3 genome annotation, of which 3 are full length. , TE copies retrieved from release 5.1 of the D. melanogaster genome.:18	-	-	LTR_retrotransposon	-
+Stalker2	8119 , 7660	13 in euchromatin of Release 3 genome annotation, of which 4 are full length.	4 , 6	-	LTR_retrotransposon	-
+Stalker3	-	-	-	-	LTR_retrotransposon	-
+Stalker4	7379	2 in euchromatin of Release 3 genome annotation, both of which are full length.	-	-	LTR_retrotransposon	-
+Tabor	7345	3 in euchromatin of Release 3 genome annotation, of which 2 are full length.	4	506	LTR_retrotransposon	-
+Tirant	8526 , 8527 , 8533	TE copies retrieved from release 5.1 of the D. melanogaster genome.:24 , 20 in euchromatin of Release 3 genome annotation, of which 15 are full length. , Approximately 11	2	417	LTR_retrotransposon	-
+Tom1	-	-	-	-	LTR_retrotransposon	-
+Transpac	5.5kb , 5249	TE copies retrieved from release 5.1 of the D. melanogaster genome.:5 , 5 in euchromatin of Release 3 genome annotation, all full length.	4	-	LTR_retrotransposon	-
+Xanthias	4533	-	-	206	LTR_retrotransposon	-
+ZAM	8435 , Approximately 9000	TE copies retrieved from release 5.1 of the D. melanogaster genome.:2 , 0 in euchromatin of Release 3 genome annotation.	4 , 6	473	LTR_retrotransposon	-
+diver	6112	9 in euchromatin of Release 3 genome annotation, of which all are full length. , 7	-	-	LTR_retrotransposon 	-
+baggins	5453	14 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	non_LTR_retrotransposon	-
+BS	5142	29 in euchromatin of Release 3 genome annotation, of which 6 are full length. , 15	8	-	non_LTR_retrotransposon	-
+BS4	-	-	-	-	non_LTR_retrotransposon	-
+Cr1a	4470	56 in euchromatin of Release 3 genome annotation, of which 1 is full length.	-	-	non_LTR_retrotransposon	-
+Dmel\BS3	-	-	-	-	non_LTR_retrotransposon	-
+Dmel\Doc2-element	4789	1 in euchromatin of Release 3 genome annotation.	-	-	non_LTR_retrotransposon	-
+Dmel\Doc3-element	4740	9 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	non_LTR_retrotransposon	-
+Dmel\Doc4-element	-	-	-	-	non_LTR_retrotransposon	-
+Dmel\F-element	4708 , to 4.8kb	TE copies retrieved from release 5.1 of the D. melanogaster genome.:67 , 42 in euchromatin of Release 3 genome annotation, of which 16 are full length. , 50	8-22	-	non_LTR_retrotransposon	-
+Dmel\G-element	4346 , variable to 4kb	3 in euchromatin of Release 3 genome annotation, of which zero are full length. , 10-20 (Di Nocera, Graziani and Lavorgna, 1986)	9 (Di Nocera and Dawid, 1983)	-	non_LTR_retrotransposon	-
+Dmel\I-element	5371 , to 5.4kb	28 in euchromatin of Release 3 genome annotation, of which 8 are full length. , 0-10 complete elements plus about 30 incomplete elements (Bucheton et al.).	12, variable	-	non_LTR_retrotransposon	-
+Dmel\Q-element	-	-	-	-	non_LTR_retrotransposon	-
+Dmel\R1A1-element	5356 , 0.5 - 5kb	10 in euchromatin of Release 3 genome annotation, of which 2 are full length.	-	-	non_LTR_retrotransposon	-
+Dmel\R2-element	3607	0 in euchromatin of Release 3 genome annotation.	-	-	non_LTR_retrotransposon	-
+Dmel\X-element	4740	25 in euchromatin of Release 3 genome annotation, of which 6 are full length. , ~30	-	-	non_LTR_retrotransposon	-
+Doc	to 5kb , 4725	55 in euchromatin of Release 3 genome annotation, of which 30 are full length. , 40	6-13	-	non_LTR_retrotransposon	-
+Fw2	-	-	-	-	non_LTR_retrotransposon	-
+Fw3	-	-	-	-	non_LTR_retrotransposon	-
+G2	3102	14 in euchromatin of Release 3 genome annotation, of which 2 are full length.	-	-	non_LTR_retrotransposon	-
+G3	4605	4 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	non_LTR_retrotransposon	-
+G4	3856	11 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	non_LTR_retrotransposon	-
+G5	4856	9 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	non_LTR_retrotransposon	-
+G5A	-	-	-	-	non_LTR_retrotransposon	-
+G6	2042	3 in euchromatin of Release 3 genome annotation, of which 1 is full length.	-	-	non_LTR_retrotransposon	-
+G7	-	-	-	-	non_LTR_retrotransposon	-
+Helena	1317	TE copies retrieved from release 5.1 of the D. melanogaster genome.:26 , 7 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	non_LTR_retrotransposon	-
+HeT-A	6083	3 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	non_LTR_retrotransposon	Telomeric
+Ivk	5402	7 in euchromatin of Release 3 genome annotation, of which 2 are full length.	-	-	non_LTR_retrotransposon	-
+jockey	5020 , to 5kb	TE copies retrieved from release 5.1 of the D. melanogaster genome.:95 , 69 in euchromatin of Release 3 genome annotation, of which 12 are full length. , 50 , 50 (Ilyin)	10	-	non_LTR_retrotransposon	-
+jockey2	3428	10 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	non_LTR_retrotransposon	-
+Juan	4236	9 in euchromatin of Release 3 genome annotation, of which 6 are full length.	-	-	non_LTR_retrotransposon	-
+Porto1	-	-	-	-	non_LTR_retrotransposon	-
+Rt1a	5108 , 5180	13 in euchromatin of Release 3 genome annotation, of which 5 are full length.	-	-	non_LTR_retrotransposon	-
+Rt1b	5183 , 5171	37 in euchromatin of Release 3 genome annotation, of which 5 are full length.	-	-	non_LTR_retrotransposon	-
+Rt1c	5443	17 in euchromatin of Release 3 genome annotation, of which 1 is full length.	-	-	non_LTR_retrotransposon	-
+TART-A	-	-	-	-	non_LTR_retrotransposon	Telomeric
+TART-B	-	-	-	-	non_LTR_retrotransposon	Telomeric
+TART-C	-	-	-	-	non_LTR_retrotransposon	-
+X-element	4740	25 in euchromatin of Release 3 genome annotation, of which 6 are full length. , ~30	-	-	non_LTR_retrotransposon	-
+Bari1	1728	5 in euchromatin of Release 3 genome annotation, of which all are full length.	-	-	terminal_inverted_repeat_element	-
+Bari2	1064	4 in euchromatin of Release 3 genome annotation, of which 1 is full length.	-	-	terminal_inverted_repeat_element	-
+Dmel\1360	4480 , 1177 , 1176	17 , 105 in euchromatin of Release 3 genome annotation, of which 10 are full length. , >25	7 , 6	37	terminal_inverted_repeat_element	-
+Dmel\S-element	Approximately 1736 bp. , 1736	14 , 51 in euchromatin of Release 3 genome annotation, of which 14 are full length.	2	234 bp. , 203	terminal_inverted_repeat_element	-
+HB	1653 , 1553	32 in euchromatin of Release 3 genome annotation, of which 5 are full length. , 20 (Brierly and Potter, 1985)	8 ?	29	terminal_inverted_repeat_element	-
+hobo	2959 , 3016	24 in euchromatin of Release 3 genome annotation, of which 1 is full length. , 0-50 (McGinnis and Beckendorf, 1983; Streck et al., 1986).	8	12	terminal_inverted_repeat_element	-
+hopper	1435	20-30 , 15 in euchromatin of Release 3 genome annotation, of which 11 are full length.	5	33	terminal_inverted_repeat_element	-
+hopper2	1680	5 in euchromatin of Release 3 genome annotation, of which 1 is full length.	-	-	terminal_inverted_repeat_element	-
+looper1	1881	3 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	terminal_inverted_repeat_element	-
+mariner2	912	17 in euchromatin of Release 3 genome annotation, of which 4 are full length.	-	-	terminal_inverted_repeat_element	-
+NOF	4347	Approximately 5. , 7 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	terminal_inverted_repeat_element	-
+P-element	2907	0-50	8	31	terminal_inverted_repeat_element	-
+pogo	2121 , 2100 (approximately) , 2.2kb	44 in euchromatin of Release 3 genome annotation, of which 5 are full length.	2 , 0-2	26 , 21 or 23	terminal_inverted_repeat_element	-
+S2	1735	13 in euchromatin of Release 3 genome annotation, of which zero are full length.	-	-	terminal_inverted_repeat_element	-
+Tc1	1666	21 in euchromatin of Release 3 genome annotation, of which 1 is full length.	-	-	terminal_inverted_repeat_element	-
+Tc1-2	-	-	-	-	terminal_inverted_repeat_element	-
+Tc3	-	-	-	27	terminal_inverted_repeat_element	-
+transib1	2167	2 in euchromatin of Release 3 genome annotation, of which zero are full length. , 5	-	43	terminal_inverted_repeat_element	-
+transib2	2844	12 in euchromatin of Release 3 genome annotation, of which zero are full length. , 11	5	42	terminal_inverted_repeat_element	-
+transib3	2883	7 in euchromatin of Release 3 genome annotation, of which zero are full length. , 8	-	45	terminal_inverted_repeat_element	-
+transib4	2656	5 in euchromatin of Release 3 genome annotation, of which 1 is full length. , 7	-	40	terminal_inverted_repeat_element	-
+INE-1	-	-	-	-	terminal_inverted_repeat_element; SINE_element	-
