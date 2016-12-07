@@ -4,8 +4,9 @@
  sed -i "s|\sMax$|\tDmel\\\Max-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\sDoc2$|\tDmel\\\Doc2-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\sS$|\tDmel\\\S-element|g" dm6_FBti_to_Families.tab
- sed -i "s|\sG$|\tDmel\\\G-element|g" dm6_FBti_to_Families.tab
+ sed -i "s|\sF$|\tDmel\\\F-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\saurora$|\taurora-element|g" dm6_FBti_to_Families.tab
+ sed -i "s|\sDoc3$|\tDmel\\\Doc3-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\sDoc4$|\tDmel\\\Doc4-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\sR2$|\tDmel\\\R2-element|g" dm6_FBti_to_Families.tab
  sed -i "s|\s412$|\tF-element|g" dm6_FBti_to_Families.tab
