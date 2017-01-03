@@ -67,17 +67,17 @@ baggins	LOA
 BS	JOCKEY
 BS4	JOCKEY
 Cr1a	CR1
-Dmel\BS3
-Dmel\Doc2-element
-Dmel\Doc3-element
-Dmel\Doc4-element
-Dmel\F-element
-Dmel\G-element
-Dmel\I-element
-Dmel\Q-element
-Dmel\R1A1-element
-Dmel\R2-element
-Dmel\X-element
+Dmel\BS3	LINE-like
+Dmel\Doc2-element	LINE-like
+Dmel\Doc3-element	LINE-like
+Dmel\Doc4-element	LINE-like
+Dmel\F-element	LINE-like
+Dmel\G-element	LINE-like
+Dmel\I-element	LINE-like
+Dmel\Q-element	LINE-like
+Dmel\R1A1-element	LINE-like
+Dmel\R2-element	LINE-like
+Dmel\X-element	LINE-like
 Doc	Jockey
 Fw2	Jockey
 Fw3	Jockey
